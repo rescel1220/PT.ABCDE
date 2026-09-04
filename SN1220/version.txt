@@ -1,1 +1,1 @@
-1.0.5#https://rescel1220.github.io/PT.ABCDE/SN1220/test_2.bin#https://rescel1220.github.io/PT.ABCDE/SN1220/test_2.bin.md5
+1.0.2#https://rescel1220.github.io/PT.ABCDE/SN1220/test_2.bin#https://rescel1220.github.io/PT.ABCDE/SN1220/test_2.bin.md5
